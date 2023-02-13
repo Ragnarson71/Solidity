@@ -1,5 +1,10 @@
 ---
 name: Documentation Issue
+about: Issues, deficiencies or improvements discovered on Solidity's documentation.
+title: ''
+labels: 'documentation :book:'
+assignees: ''
+
 ---
 
 ## Page
