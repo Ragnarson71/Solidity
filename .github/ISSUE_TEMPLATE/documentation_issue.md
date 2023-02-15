@@ -1,6 +1,6 @@
 ---
 name: Documentation Issue
-about: Issues, deficiencies or improvements discovered on Solidity's documentation.
+about: Corrections, improvements or requests for new content on Solidity's documentation.
 title: ''
 labels: 'documentation :book:'
 assignees: ''
